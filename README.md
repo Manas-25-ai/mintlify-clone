@@ -4,7 +4,12 @@ A modern, beautiful documentation platform built with Next.js and Tailwind CSS. 
 
 > 📍 **Repository Location**: https://github.com/Manas-25-ai/mintlify-clone  
 > 🌿 **Current Branch**: `copilot/create-mintlify-clone`  
+> 📖 **[Quick Access Guide](./QUICK_ACCESS.md)** - Can't find the repository? Read this!  
 > 📖 **[Full Location Guide](./WHERE_TO_FIND.md)** - Detailed instructions on finding and accessing this repository
+
+## 🎉 Live Preview
+
+![Mintlify Clone Live Demo](https://github.com/user-attachments/assets/8aa0a162-de5d-4a71-8687-55812cd541c9)
 
 ![Mintlify Clone Light Mode](https://github.com/user-attachments/assets/ecf6091b-2abd-4364-83fc-e950d548d774)
 
