@@ -11,10 +11,6 @@ A modern, beautiful documentation platform built with Next.js and Tailwind CSS. 
 
 ![Mintlify Clone Live Demo](https://github.com/user-attachments/assets/8aa0a162-de5d-4a71-8687-55812cd541c9)
 
-![Mintlify Clone Light Mode](https://github.com/user-attachments/assets/ecf6091b-2abd-4364-83fc-e950d548d774)
-
-![Mintlify Clone Dark Mode](https://github.com/user-attachments/assets/0c8f42db-399a-4d51-add2-ba4fed60815e)
-
 ## ✨ Features
 
 - **🌓 Dark Mode Support** - Seamlessly switch between light and dark themes with localStorage persistence
