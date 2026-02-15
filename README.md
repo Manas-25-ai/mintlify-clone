@@ -2,6 +2,10 @@
 
 A modern, beautiful documentation platform built with Next.js and Tailwind CSS. This project is a clone of Mintlify, designed to help you create professional documentation sites with ease.
 
+> 📍 **Repository Location**: https://github.com/Manas-25-ai/mintlify-clone  
+> 🌿 **Current Branch**: `copilot/create-mintlify-clone`  
+> 📖 **[Full Location Guide](./WHERE_TO_FIND.md)** - Detailed instructions on finding and accessing this repository
+
 ![Mintlify Clone Light Mode](https://github.com/user-attachments/assets/ecf6091b-2abd-4364-83fc-e950d548d774)
 
 ![Mintlify Clone Dark Mode](https://github.com/user-attachments/assets/0c8f42db-399a-4d51-add2-ba4fed60815e)
