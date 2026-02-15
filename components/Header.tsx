@@ -8,8 +8,9 @@ export default function Header() {
 
   useEffect(() => {
     // Check for saved theme preference or default to system preference
-    const isDark = localStorage.getItem('theme') === 'dark' ||
-      (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches);
+    const savedTheme = localStorage.getItem('theme');
+    const isDark = savedTheme === 'dark' ||
+      (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches);
     setDarkMode(isDark);
     document.documentElement.classList.toggle('dark', isDark);
   }, []);
